@@ -1,0 +1,1 @@
+Bar.find(params[:foo])
